@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="informe_">informe o usuário do GitHub</string>
+    <string name="verifique">Informe o nome do repositorio ou verifique se o repositório foi baixado!</string>
+    <string name="rep">Repositorio do</string>
+    <string name="salvo">Salvo!</string>
+    <string name="existe">já existe!</string>
+    <string name="nome">Informe o nome do repositorio</string>
+    <string name="delete_repo">Deletar o repositorio de</string>
+    <string name="atualizado">Atualizado.</string>
+    <string name="sem_atualizar">Não foi possível atualizar o repositório de</string>
+    <string name="volte">Volte pra tela principal.</string>
+</resources>

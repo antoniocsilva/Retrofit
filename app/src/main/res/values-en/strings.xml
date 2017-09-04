@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="informe_">notify the user of GitHub</string>
+    <string name="verifique">Enter the name of the repository or check if the repository has been downloaded.</string>
+    <string name="rep">Repository the</string>
+    <string name="salvo">Safe!</string>
+    <string name="existe">already exists!</string>
+    <string name="nome">Enter the name of the repository</string>
+    <string name="delete_repo">Delete the repository of</string>
+    <string name="atualizado">Updated.</string>
+    <string name="sem_atualizar">Unable to update the repository</string>
+    <string name="volte">Go back to main screen.</string>
+</resources>
